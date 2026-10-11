@@ -1,0 +1,4 @@
+git add .
+git commit -m "Practice Code 11/10/2026"
+git push
+
